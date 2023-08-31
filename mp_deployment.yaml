@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: victorelvis/simple-app
+        image: velmuruganmp1210/madpoints-docker
         resources:
           limits:
             memory: "256Mi"
